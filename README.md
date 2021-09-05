@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@joeeefarias**
 - 👀 I’m interested in **Software devlopment**
-- 🌱 I’m currently learning **Java, Javascript and Linux.**
+- 🌱 I’m currently learning **Java.**
 - 📫 How to reach me **joacyfarias@yahoo.com.br**  Linkein: **https://www.linkedin.com/in/joacy-farias-13159340/**
 <!---- 💞️ I’m looking to collaborate on ...--->
 
