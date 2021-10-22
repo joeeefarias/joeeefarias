@@ -1,6 +1,5 @@
 <h1 align="center">Hello there 👋 i'm Joacy Farias</h1>
 
-
 <h1> CONTATO </h1>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joacy-farias-13159340/)
@@ -33,8 +32,15 @@
      <br>
       ㅤㅤ<img height="37em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
       <img height="37em" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+      <img height="37em" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     </p>
-<!---- 💞️ I’m looking to collaborate on ...--->
+    
+    
+ <h2>⚙ GitHub Analytics<h2>
+    <p align="left">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joeeefarias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joeeefarias&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
+    </p><!---- 💞️ I’m looking to collaborate on ...--->
 
 
 <!---
